@@ -8,7 +8,7 @@
 }
 
 .container{
-    background-image: url("/images/bg.jpg");
+    background-image: url("images/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -73,7 +73,7 @@ button{
     background-color: #26252B;
 }
 .sec1{
-    background-image: url("/images/pic1.jpg");
+    background-image: url("images/pic1.jpg");
     height: 800px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -109,7 +109,7 @@ button{
 }
 
 .quote1{
-    background-image: url("/images/shiv.png");
+    background-image: url("images/shiv.png");
     background-size: cover;
 }
 
